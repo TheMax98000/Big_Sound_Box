@@ -1,9 +1,15 @@
 ﻿CACHE MANIFEST
-#1386439890
+#1386453386
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
-images\sprite-sheet0.png
+images\icone_hi-sheet0.png
+images\icone_up-sheet0.png
+images\icone_fall-sheet0.png
+images\fond_home-sheet0.png
+media\hi!.ogg
+media\up.ogg
+media\fall.ogg
 icon-16.png
 icon-32.png
 icon-114.png
