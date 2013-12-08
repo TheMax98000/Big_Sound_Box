@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1386492481
+#1386520593
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -14,6 +14,10 @@ images\icone_jump-sheet0.png
 images\icone_die-sheet0.png
 images\icone_invincible-sheet0.png
 images\icone_tanooki_attack-sheet0.png
+images\icone_capture-sheet0.png
+images\icone_objet1-sheet0.png
+images\icone_objet2-sheet0.png
+images\icone_recovery-sheet0.png
 images\fond_home-sheet0.png
 media\hi!.ogg
 media\up.ogg
@@ -26,6 +30,10 @@ media\powerup.ogg
 media\warp.ogg
 media\invincable%20heroes%20sfx.ogg
 media\raccoon%20tail%20whip%20sfx.ogg
+media\fanfare.ogg
+media\item2_get.ogg
+media\item_get.ogg
+media\recovery.ogg
 icon-16.png
 icon-32.png
 icon-114.png
