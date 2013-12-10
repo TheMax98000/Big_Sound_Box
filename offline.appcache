@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1386524694
+#1386670471
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
@@ -18,6 +18,18 @@ images\icone_capture-sheet0.png
 images\icone_objet1-sheet0.png
 images\icone_objet2-sheet0.png
 images\icone_recovery-sheet0.png
+images\icone_anneau-sheet0.png
+images\icone_bumper-sheet0.png
+images\icone_checkpoint-sheet0.png
+images\icone_fin_niveau-sheet0.png
+images\icone_damage-sheet0.png
+images\icone_sonicjump-sheet0.png
+images\icone_spin_dash-sheet0.png
+images\icone_item-sheet0.png
+images\icone_unlock-sheet0.png
+images\icone_navi-sheet0.png
+images\icone_zeldafall-sheet0.png
+images\icone_zeldadie-sheet0.png
 images\fond_home-sheet0.png
 media\hi!.ogg
 media\up.ogg
@@ -34,6 +46,18 @@ media\fanfare.ogg
 media\item2_get.ogg
 media\item_get.ogg
 media\recovery.ogg
+media\anneau.ogg
+media\bumper.ogg
+media\checkpoint.ogg
+media\damage.ogg
+media\fin%20niveau.ogg
+media\jump.ogg
+media\spin%20dash.ogg
+media\game%20over.ogg
+media\item.ogg
+media\mc_link_fall.ogg
+media\navi.ogg
+media\unlock.ogg
 icon-16.png
 icon-32.png
 icon-114.png
